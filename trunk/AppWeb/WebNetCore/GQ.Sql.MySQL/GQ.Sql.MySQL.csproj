@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Copyright>Geminus Qhom</Copyright>
+	<PackageLicenseUrl>http://geminus-qhom.com</PackageLicenseUrl>
+	<PackageProjectUrl>http://geminus-qhom.com</PackageProjectUrl>
+	<PackageIconUrl>http://geminus-qhom.com/wp-content/uploads/2014/05/logo.jpg</PackageIconUrl>
+	<AssemblyVersion>2.0.0.6</AssemblyVersion>
+	<FileVersion>2.0.0.6</FileVersion>
+	<Version>2.0.0.6</Version>
+	<Description>GQ Plataforma</Description>
+	<Authors>Geminus Qhom</Authors>
+	<Company>Geminus Qhom</Company>
+	<Product>GQ Plataforma</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.2" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GQ.Data\GQ.Data.csproj" />
+    <ProjectReference Include="..\GQ.Sql\GQ.Sql.csproj" />
+  </ItemGroup>
+
+</Project>

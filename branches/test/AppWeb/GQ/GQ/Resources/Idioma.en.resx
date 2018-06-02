@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <!-- DEFAULT -->
+  <!-- por defecto -->
+  <data name="default_sign_out" xml:space="preserve">
+    <value>Sign Out</value>
+  </data>
+  <data name="default_selected" xml:space="preserve">
+    <value>Sel</value>
+  </data>
+  <data name="default_title_agregar" xml:space="preserve">
+    <value>Added</value>
+  </data>
+  <data name="default_title_editar" xml:space="preserve">
+    <value>Edited</value>
+  </data>
+  <data name="default_fecha_modificacion" xml:space="preserve">
+    <value>Date Last Modified:</value>
+  </data>
+  <data name="default_usuario_modificacion" xml:space="preserve">
+    <value> - User Modified:</value>
+  </data>
+  <data name="default_registros" xml:space="preserve">
+    <value>Records : </value>
+  </data>
+  <data name="default_usuario_desde" xml:space="preserve">
+    <value>User from </value>
+  </data>
+  <data name="default_mis_datos" xml:space="preserve">
+    <value>My Profile</value>
+  </data>
+  <data name="default_cerrar_sesion" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+
+  <data name="gq_creado_usr" xml:space="preserve">
+    <value>Created by</value>
+  </data>
+  <data name="gq_creado_date" xml:space="preserve">
+    <value>Created</value>
+  </data>
+  <data name="gq_modificado_usr" xml:space="preserve">
+    <value>Modified by</value>
+  </data>
+  <data name="gq_modificado_date" xml:space="preserve">
+    <value>Modified</value>
+  </data>
+   <data name="gq_error_message" xml:space="preserve">
+    <value>Sorry, there was an unexpected error, please contact the administrator</value>
+  </data>
+  
+  <!-- Estados-->
+  <data name="default_estado_a" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="default_estado_d" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="default_estado_b" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
+  <data name="default_estado_activo" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="default_estado_desactivo" xml:space="preserve">
+    <value>Disabled</value>
+  </data>
+  <data name="default_estado_todos" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <!-- Lenguaje-->
+  <data name="default_language_es" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="default_language_en" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <!-- Mensajes o Alertas-->
+  <data name="default_title_guardar" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="default_mensaje_guardar" xml:space="preserve">
+    <value>Are you sure you want to save?</value>
+  </data>
+  <data name="default_title_borrar" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="default_mensaje_borrar" xml:space="preserve">
+    <value>Are you sure you want to delete?</value>
+  </data>
+  <data name="default_title_error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="default_mensaje_error" xml:space="preserve">
+    <value>System error try again</value>
+  </data>
+  <!-- Botones-->
+  <data name="default_yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="default_no" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="default_find" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="default_find_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-search"></span>]]></value>
+  </data>
+  <data name="default_find_avanzado" xml:space="preserve">
+    <value>Advanced Search</value>
+  </data>
+  <data name="default_add" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="default_add_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-plus"></span>]]></value>
+  </data>
+  <data name="default_view" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="default_view_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-eye-open"></span>]]></value>
+  </data>
+  <data name="default_edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="default_edit_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-pencil"></span>]]></value>
+  </data>
+  <data name="default_delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="default_delete_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-trash"></span>]]></value>
+  </data>
+  <data name="default_save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="default_save_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-saved"></span>]]></value>
+  </data>
+  <data name="default_acept" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="default_acept_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-ok"></span>]]></value>
+  </data>
+  <data name="default_cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="default_cancel_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-remove"></span>]]></value>
+  </data>
+  <data name="default_signin" xml:space="preserve">
+    <value>Sign In</value>
+  </data>
+  <data name="default_signin_icon" xml:space="preserve">
+    <value><![CDATA[<span class="glyphicon glyphicon-trash"></span>]]></value>
+  </data>
+  <!-- OBJECTS -->
+  <!-- Gq_usuariosDto-->
+  <data name="gq_usuarios_usuarioId" xml:space="preserve">
+    <value>Id</value>
+  </data>
+  <data name="gq_usuarios_usuario" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="gq_usuarios_nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="gq_usuarios_apellido" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="gq_usuarios_email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="gq_usuarios_clave" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="gq_usuarios_clave_verificar" xml:space="preserve">
+    <value>Retry Password</value>
+  </data>
+  <data name="gq_usuarios_perfilId" xml:space="preserve">
+    <value>Profile</value>
+  </data>
+  <data name="gq_usuarios_requiereClave" xml:space="preserve">
+    <value>Password Required</value>
+  </data>
+  <data name="gq_usuarios_estado" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="gq_usuarios_creado" xml:space="preserve">
+    <value>Created</value>
+  </data>
+  <data name="gq_usuarios_modificado" xml:space="preserve">
+    <value>Modified</value>
+  </data>
+  <data name="gq_usuarios_creadoPor" xml:space="preserve">
+    <value>Created By</value>
+  </data>
+  <data name="gq_usuarios_modificadoPor" xml:space="preserve">
+    <value>Modified By</value>
+  </data>
+  <!-- VIEWS -->
+  <!-- login / index -->
+  <data name="login_index_title" xml:space="preserve">
+    <value>Start Session</value>
+  </data>
+  <data name="login_index_header" xml:space="preserve">
+    <value>Start Session</value>
+  </data>
+  <data name="login_index_email" xml:space="preserve">
+    <value><![CDATA[User or E-mail]]></value>
+  </data>
+  <data name="login_index_password" xml:space="preserve">
+    <value><![CDATA[Password]]></value>
+  </data>
+  <data name="login_index_rememberme" xml:space="preserve">
+    <value>Remember Me</value>
+  </data>
+  <data name="login_index_error" xml:space="preserve">
+    <value>Incorrect User or Password. Verify your credentials</value>
+  </data>
+  <data name="login_index_entrar" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="login_index_recuperar_clave" xml:space="preserve">
+    <value>Recover Password</value>
+  </data>
+  <data name="login_index_enviar" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="login_index_recuperar_tu_clave" xml:space="preserve">
+    <value>Recover Password</value>
+  </data>
+  <!-- usuario / index -->
+  <data name="usuario_index_title" xml:space="preserve">
+    <value>User Management</value>
+  </data>
+  <data name="usuario_index_header" xml:space="preserve">
+    <value>User Management</value>
+  </data>
+  <data name="usuario_index_create_new" xml:space="preserve">
+    <value><![CDATA[Create new <span class="text-green">User</span>]]></value>
+  </data>
+  <data name="usuario_index_edit" xml:space="preserve">
+    <value><![CDATA[Edit User]]></value>
+  </data>
+
+  <!-- perfil / index -->
+  <data name="perfil_index_title" xml:space="preserve">
+    <value>Profile Management</value>
+  </data>
+  <data name="gq_perfiles_nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="gq_perfiles_estado" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="perfil_index_create_new" xml:space="preserve">
+    <value><![CDATA[Create new <span class="text-green">Profile</span>]]></value>
+  </data>
+  <data name="perfil_index_edit" xml:space="preserve">
+    <value><![CDATA[Profile Edit]]></value>
+  </data>
+  <data name="gq_perfiles_accesos" xml:space="preserve">
+    <value>Access</value>
+  </data>
+
+  <!-- grafico / index -->
+  <data name="grafico_index_title" xml:space="preserve">
+    <value>Graphics Management</value>
+  </data>
+  <data name="gq_graficos_nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="gq_graficos_descripcion" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="gq_graficos_folder" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="gq_graficos_template" xml:space="preserve">
+    <value>Template</value>
+  </data>
+  <data name="gq_graficos_scritp" xml:space="preserve">
+    <value>Scritp</value>
+  </data>
+  <data name="gq_graficos_codeSharp" xml:space="preserve">
+    <value>CodeSharp</value>
+  </data>
+  <data name="gq_graficos_estado" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="gq_graficos_extrasEscenario" xml:space="preserve">
+    <value>Schema</value>
+  </data> 
+  <data name="gq_graficos_ejecutarTest" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="grafico_index_create_new" xml:space="preserve">
+    <value><![CDATA[Create new <span class="text-green">Graphic</span>]]></value>
+  </data>
+  <data name="grafico_index_edit" xml:space="preserve">
+    <value><![CDATA[Graphic Edition]]></value>
+  </data>
+  <data name="gq_perfiles_accesos" xml:space="preserve">
+    <value>Access</value>
+  </data>
+
+  <!-- menu -->
+  <data name="menu_90_00_00" xml:space="preserve">
+    <value>Configuration</value>
+  </data>
+  <data name="menu_90_10_00" xml:space="preserve">
+    <value>Users</value>
+  </data>
+  <data name="menu_90_20_00" xml:space="preserve">
+    <value>Profiles</value>
+  </data>
+  <data name="menu_90_30_00" xml:space="preserve">
+    <value>Graphics</value>
+  </data>
+
+  <!-- SMTP -->
+  <data name="smtp_index_title" xml:space="preserve">
+    <value>SMTP</value>
+  </data>
+  <data name="gq_smtp_nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="gq_smtp_nombreFrom" xml:space="preserve">
+    <value>Name From</value>
+  </data>
+  <data name="gq_smtp_user" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="gq_smtp_pass" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="gq_smtp_host" xml:space="preserve">
+    <value>Host</value>
+  </data>
+  <data name="gq_smtp_port" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="gq_smtp_useDefaultCredentials" xml:space="preserve">
+    <value>Use Default Credentials</value>
+  </data>
+  <data name="gq_smtp_enableSsl" xml:space="preserve">
+    <value>Enable Ssl</value>
+  </data>
+  <data name="gq_smtp_emailFrom" xml:space="preserve">
+    <value>Email From</value>
+  </data>
+  <data name="smtp_index_edit" xml:space="preserve">
+    <value><![CDATA[SMTP Edition]]></value>
+  </data>
+
+  <!-- mailTemplate / index -->
+  <data name="mailTemplate_index_title" xml:space="preserve">
+    <value>Mail Template Management</value>
+  </data>
+  <data name="gq_mailTemplate_nombre" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="gq_mailTemplate_template" xml:space="preserve">
+    <value>Template</value>
+  </data>
+  <data name="gq_mailTemplate_estado" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="mailTemplate_index_create_new" xml:space="preserve">
+    <value><![CDATA[Create new <span class="text-green">Mail Template</span>]]></value>
+  </data>
+  <data name="mailTemplate_index_edit" xml:space="preserve">
+    <value><![CDATA[Mail Template Edition]]></value>
+  </data>
+  <data name="gq_mailTemplate_accesos" xml:space="preserve">
+    <value>Access</value>
+  </data>
+  <data name="gq_mailTemplate_folder" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="gq_mailTemplate_scritp" xml:space="preserve">
+    <value>Script</value>
+  </data>
+  <data name="gq_mailTemplate_codeSharp" xml:space="preserve">
+    <value>CodeSharp</value>
+  </data>
+
+  <!-- Formulario / index -->
+  <data name="formulario_index_create_new" xml:space="preserve">
+    <value>Create new &lt;span class="text-green"&gt;Form&lt;/span&gt;</value>
+  </data>
+  <data name="formulario_index_edit" xml:space="preserve">
+    <value>Form Edition</value>
+  </data>
+  <data name="formulario_index_header" xml:space="preserve">
+    <value>Form Management</value>
+  </data>
+  <data name="formulario_index_title" xml:space="preserve">
+    <value>Form Management</value>
+  </data>
+  <data name="gq_formularios_archivo" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="gq_formularios_fecha" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="gq_formularios_hora" xml:space="preserve">
+    <value>Hour</value>
+  </data>
+  <data name="gq_formularios_opcion" xml:space="preserve">
+    <value>Option</value>
+  </data>
+  <data name="gq_formularios_texto" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="gq_formularios_imagen" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="gq_formularios_usuario" xml:space="preserve">
+    <value>User</value>
+  </data>
+
+</root>

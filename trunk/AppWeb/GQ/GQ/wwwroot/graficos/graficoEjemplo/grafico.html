@@ -1,0 +1,41 @@
+<div class="row padding0 clearfix">
+    <div class="padding0 form-group col-sm-10">
+        <div class="form-group col-sm-6">
+            <label class="col-sm-2 control-label">Valor</label>
+            <div class="col-sm-10">
+                <select ng-model="filterObject.selectedfiltroValores" ng-options=" item as item.label for item in filtroValores track by item.id" class="form-control"></select>
+            </div>
+        </div>
+
+        <div class="form-group col-sm-6">
+            <label class="col-sm-2 control-label">Paso</label>
+            <div class="col-sm-10">
+                <select ng-model="filterObject.selectedPaso" ng-options=" item as item.label for item in pasos  track by item.id" class="form-control"></select>
+            </div>
+        </div>
+       
+    </div>
+    <div class="form-group col-sm-2">
+        <button class="btn btn-primary btn-sm pull-right col-sm-12" style="margin-top: 5px;margin-bottom: 5px;"
+                ng-click="ObtenerGraficos()">
+            Actualizar
+        </button>
+        <button class="btn btn-success btn-sm pull-right col-sm-12" style="margin-top: 5px;margin-bottom: 5px;"
+                ng-click="ObtenerExcel()">
+            Excel
+        </button>
+        <button class="btn btn-danger btn-sm pull-right col-sm-12" style="margin-top: 5px;margin-bottom: 5px;"
+                ng-click="ObtenerPDF()">
+            PDF
+        </button>
+    </div>    
+    <div class="padding0 form-group col-sm-12" ng-if="showGrafico">
+        <nvd3 options="options" data="ChartCollection.charts"></nvd3>
+    </div>
+    <div class="padding0 form-group col-sm-12" ng-if="showSeleccioneAlerta">
+        <label class="col-sm-offset-4 col-sm-4"> Seleccione un Filtro</label>
+    </div>
+    <div class="padding0 form-group col-sm-12" ng-if="showBuscando" style="text-align:center;">
+        <i class="fa fa-refresh fa-spin fa-3x fa-fw margin-bottom"></i>
+    </div>
+</div>

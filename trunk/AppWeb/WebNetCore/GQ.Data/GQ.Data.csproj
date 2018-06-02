@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<Copyright>Geminus Qhom</Copyright>
+	<PackageLicenseUrl>http://geminus-qhom.com</PackageLicenseUrl>
+	<PackageProjectUrl>http://geminus-qhom.com</PackageProjectUrl>
+	<PackageIconUrl>http://geminus-qhom.com/wp-content/uploads/2014/05/logo.jpg</PackageIconUrl>
+	<AssemblyVersion>2.0.0.2</AssemblyVersion>
+	<FileVersion>2.0.0.2</FileVersion>
+	<Version>2.0.0.2</Version>
+	<Description>GQ Plataforma</Description>
+	<Authors>Geminus Qhom</Authors>
+	<Company>Geminus Qhom</Company>
+	<Product>GQ Plataforma</Product>
+  </PropertyGroup>
+
+<ItemGroup>
+  <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+  <PackageReference Include="System.ComponentModel.Annotations" Version="4.4.1" />
+</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GQ.Core\GQ.Core.csproj" />
+  </ItemGroup>
+
+</Project>
