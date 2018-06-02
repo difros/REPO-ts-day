@@ -1,0 +1,11 @@
+
+branches/test/AppWeb/GQ/GQ/bin
+branches/test/AppWeb/GQ/DataService/bin
+branches/test/AppWeb/GQ/DataService/obj
+branches/test/AppWeb/GQ/GQService/bin
+branches/test/AppWeb/GQ/GQService/obj
+trunk/AppWeb/GQ/DataService/bin
+trunk/AppWeb/GQ/DataService/obj
+trunk/AppWeb/GQ/GQService/bin
+trunk/AppWeb/GQ/GQService/obj
+*.pdb

@@ -1,0 +1,8 @@
+﻿<div class="pull-right">
+    @if (GQ.com.gq.security.Security.hasPermission(((Microsoft.AspNetCore.Mvc.Controllers.ControllerActionDescriptor)ViewContext.ActionDescriptor).ControllerTypeInfo, "Guardar", false))
+    {
+        <button class="btn btn-success" ng-show="showButtonAdd" ng-click="onAgregar()" title="@Localizer["default_add"]">@Localizer["default_add_icon"]</button>
+        <button class="btn btn-primary" ng-show="showButtonSave" ng-click="onGuardar()" title="@Localizer["default_save"]">@Localizer["default_save_icon"]</button>
+    }
+    <button class="btn btn-warning" ng-show="showButtonCancel" ng-click="onCancelar()" title="@Localizer["default_cancel"]">@Localizer["default_cancel_icon"]</button>
+</div>

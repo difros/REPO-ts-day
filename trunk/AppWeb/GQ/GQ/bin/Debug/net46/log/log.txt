@@ -1,0 +1,109 @@
+2018-02-28 13:01:20,295 [1] INFO  GeminusQhom - GQ.Startup : ****************************************************************************************
+2018-02-28 13:01:20,306 [1] INFO  GeminusQhom - GQ.Startup : ****************************************************************************************
+2018-02-28 13:01:20,306 [1] INFO  GeminusQhom - GQ.Startup : ************************************   Startup  ****************************************
+2018-02-28 13:01:20,306 [1] INFO  GeminusQhom - GQ.Startup : ****************************************************************************************
+2018-02-28 13:01:20,306 [1] INFO  GeminusQhom - GQ.Startup : ****************************************************************************************
+2018-02-28 13:01:20,553 [1] INFO  GeminusQhom - GQ.Startup : Inicializando ConfigureServices
+2018-02-28 13:01:22,211 [1] INFO  GeminusQhom - GQ.Startup : Finalizando ConfigureServices
+2018-02-28 13:01:22,579 [1] INFO  GeminusQhom - GQ.Startup : Inicializando Configure
+2018-02-28 13:01:22,694 [1] INFO  GeminusQhom - GQ.Startup : ************************************   Migrator  ****************************************
+2018-02-28 13:01:27,863 [1] INFO  GeminusQhom - GQ.Startup : ************************************   Migrator  ****************************************
+2018-02-28 13:01:27,863 [1] INFO  GeminusQhom - GQ.Startup : ************************************   ServiceConfigure  ****************************************
+2018-02-28 13:01:31,366 [1] INFO  GeminusQhom - GQ.Startup : ************************************   ServiceConfigure  ****************************************
+2018-02-28 13:01:31,366 [1] INFO  GeminusQhom - GQ.Startup : ************************************   DtoConfiguration  ****************************************
+2018-02-28 13:01:31,380 [1] INFO  GeminusQhom - GQ.Startup : ************************************   DtoConfiguration  ****************************************
+2018-02-28 13:01:31,380 [1] INFO  GeminusQhom - GQ.Startup : ************************************   SecurityConfigure  ****************************************
+2018-02-28 13:01:34,100 [1] INFO  GeminusQhom - GQ.Startup : ************************************   SecurityConfigure  ****************************************
+2018-02-28 13:01:34,839 [1] INFO  GeminusQhom - GQ.Startup : Finalizando Configure
+2018-02-28 13:01:36,759 [4] DEBUG GeminusQhom - GQ.Controllers.HomeController : Index | {}
+2018-02-28 13:01:36,899 [4] DEBUG GeminusQhom - GQ.Controllers.LoginController : Index | {}
+2018-02-28 13:02:35,576 [15] DEBUG GeminusQhom - GQ.Controllers.LoginController : Login | {"data":{"Usuario":"admin","Nombre":null,"Apellido":null,"Email":null,"Clave":"admin1234","ClaveChequed":null,"ModificadoPorNombre":"","UsuarioId":null,"PerfilId":0,"RequiereClave":null,"Estado":null,"Creado":null,"Modificado":null,"CreadoPor":null,"ModificadoPor":null}}
+2018-02-28 13:02:35,855 [15] DEBUG GeminusQhom - GQ.Controllers.HomeController : Index | {}
+2018-02-28 13:02:36,992 [17] DEBUG GeminusQhom - GQ.Controllers.MenuController : Buscar | {}
+2018-02-28 13:02:39,603 [16] DEBUG GeminusQhom - GQ.Controllers.GraficoController : Index | {}
+2018-02-28 13:02:40,496 [17] DEBUG GeminusQhom - GQ.Controllers.GraficoController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"=|T","Value":"A"}],"Order":[],"data":null}}
+2018-02-28 13:02:43,673 [6] DEBUG GeminusQhom - GQ.Controllers.GraficoController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"=|T","Value":"A"}],"Order":[],"data":null}}
+2018-02-28 13:02:46,159 [16] DEBUG GeminusQhom - GQ.Controllers.GraficoController : GetGrafico | {"id":1}
+2018-02-28 13:02:50,933 [17] DEBUG GeminusQhom - GQ.Controllers.GraficoController : Ejecutar | {"model":{"GraficoId":1,"Metodo":"ObtenerGraficos","Parametros":[null,"FiltroX"]}}
+2018-02-28 13:03:05,757 [17] ERROR GeminusQhom - GQ.Controllers.GraficoController : Ejecutar
+   en System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   en System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   en System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   en System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   en GQService.com.gq.compiler.CompilerCSharp.Invoke(String className, String methodName, Object[] parameters)
+   en GQ.com.gq.graficos.ProcesarGraficos.Ejecutar(EjecutarDto model)
+   en GQ.Controllers.GraficoController.Ejecutar(EjecutarDto model)
+   en lambda_method(Closure , Object , Object[] )
+   en Microsoft.AspNetCore.Mvc.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   en Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__27.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__25.MoveNext()
+System.Reflection.TargetInvocationException: Se produjo una excepción en el destino de la invocación. ---> NHibernate.Exceptions.GenericADOException: could not execute query
+[ SELECT 
+            Filtro, 
+            ID_Fecha, 
+            Concepto, 
+            Valor
+        FROM ``.gq_grafico_valores
+        WHERE Filtro = ?p0 
+        ORDER BY Concepto, ID_Fecha ]
+  Name:Filtro - Value:FiltroX
+[SQL: SELECT 
+            Filtro, 
+            ID_Fecha, 
+            Concepto, 
+            Valor
+        FROM ``.gq_grafico_valores
+        WHERE Filtro = ?p0 
+        ORDER BY Concepto, ID_Fecha] ---> MySql.Data.MySqlClient.MySqlException: Incorrect database name ''
+   en MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   en NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   en NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   en NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   en NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   en NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+   en NHibernate.Loader.Loader.ListIgnoreQueryCache(ISessionImplementor session, QueryParameters queryParameters)
+   en NHibernate.Loader.Loader.List(ISessionImplementor session, QueryParameters queryParameters, ISet`1 querySpaces, IType[] resultTypes)
+   en NHibernate.Impl.SessionImpl.ListCustomQuery(ICustomQuery customQuery, QueryParameters queryParameters, IList results)
+   en NHibernate.Impl.AbstractSessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters, IList results)
+   en NHibernate.Impl.AbstractSessionImpl.List[T](NativeSQLQuerySpecification spec, QueryParameters queryParameters)
+   en NHibernate.Impl.SqlQueryImpl.List[T]()
+   en Main.GetDatos(String baseDatos, String filtro) en t:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\wwwroot\graficos\graficoEjemplo\grafico.cs:línea 32
+   en Main.ObtenerGraficos(String baseDatos, String filtro) en t:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\wwwroot\graficos\graficoEjemplo\grafico.cs:línea 156
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   en System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   en System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   en System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   en GQService.com.gq.compiler.CompilerCSharp.Invoke(String className, String methodName, Object[] parameters)
+   en GQ.com.gq.graficos.ProcesarGraficos.Ejecutar(EjecutarDto model)
+   en GQ.Controllers.GraficoController.Ejecutar(EjecutarDto model)
+   en lambda_method(Closure , Object , Object[] )
+   en Microsoft.AspNetCore.Mvc.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   en Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__27.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__25.MoveNext()
+2018-02-28 13:03:11,714 [15] DEBUG GeminusQhom - GQ.Controllers.PerfilController : Index | {}
+2018-02-28 13:03:12,132 [17] DEBUG GeminusQhom - GQ.Controllers.PerfilController : GetAccesos | {}
+2018-02-28 13:03:12,158 [17] DEBUG GeminusQhom - GQ.Controllers.PerfilController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"=|T","Value":"A"}],"Order":[],"data":null}}
+2018-02-28 13:03:13,464 [12] DEBUG GeminusQhom - GQ.Controllers.MapaController : Index | {}
+2018-02-28 13:03:19,451 [17] DEBUG GeminusQhom - GQ.Controllers.MapaController : BuscarMarcadores | {}
+2018-02-28 13:03:25,345 [17] DEBUG GeminusQhom - GQ.Controllers.MailTemplateController : Index | {}
+2018-02-28 13:03:25,685 [17] DEBUG GeminusQhom - GQ.Controllers.MailTemplateController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"=|T","Value":"A"}],"Order":[],"data":null}}
+2018-02-28 13:03:27,392 [16] DEBUG GeminusQhom - GQ.Controllers.MailTemplateController : GetMailTemplate | {"id":2}
+2018-02-28 13:03:34,073 [3] DEBUG GeminusQhom - GQ.Controllers.SMTPController : Index | {}
+2018-02-28 13:03:34,409 [4] DEBUG GeminusQhom - GQ.Controllers.SMTPController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"x","Value":"A"}],"Order":[],"data":null}}
+2018-02-28 13:03:41,408 [3] DEBUG GeminusQhom - GQ.Controllers.SMTPController : Buscar | {"paging":{"PageIndex":1,"PageSize":25,"PageCount":null,"RecordCount":null,"Filter":[{"Property":"Estado","Condition":"x","Value":"A"}],"Order":[],"data":null}}

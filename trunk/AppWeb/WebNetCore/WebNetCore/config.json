@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionString": {
+    "MySql": "server=localhost;User Id=root; database=gq_base;default command timeout=999;Connection Timeout=999;"
+  }
+}

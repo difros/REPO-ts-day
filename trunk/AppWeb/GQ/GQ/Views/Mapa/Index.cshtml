@@ -1,0 +1,85 @@
+@{
+    ViewData["Title"] = Localizer["gq_mapa_index_title"];
+}
+
+@if (ViewData.Keys.Contains("done"))
+{
+    <script>
+        var done = '@ViewData["done"]';
+    </script>
+}
+
+<script>
+    var componentes = ['nvd3', 'ngMap', 'ngRoute'];
+</script>
+
+<div class="content-wrapper" style="min-height: 850px;" ng-controller="appController">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        @Html.Partial("~/Views/Shared/_PartialButtons.cshtml")
+        <h1>
+            @ViewData["Title"]
+        </h1>
+    </section>
+
+    <!-- content -->
+    <section class="content">
+        <div class="row clearfix">
+            <div class="col-md-12">
+
+                <!-- Mapa -->
+                <div class="col-md-6">
+                    <div class="box">
+                        <!-- box-header -->
+                        <div class="box-header with-border">
+                            <h3 class="box-title">@Localizer["gq_mapa_mapa"] - {{over}}</h3>
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-success btn-sm pull-right col-sm-12" ng-click="ObtenerMarcadoresMapa()">
+                                    @Localizer["gq_mapa_mostrar_marcadores"]
+                                </button>
+                                @*<button type="button" class="btn btn-box-tool" data-widget="collapse">
+                            <i class="fa fa-minus"></i>
+                        </button>*@
+                            </div>
+                        </div>
+
+                        <!-- box-body -->
+                        <div class="box-body">
+                            <div map-lazy-load="https://maps.google.com/maps/api/js"
+                                 map-lazy-load-params="{{googleMapsUrl}}"
+                                 style="height:100%!important">
+                                <ng-map center="[-41, -66]" zoom="5" disable-default-u-i="true" style="height:1050px!important">
+                                    <shape ng-repeat="shape in shapes"
+                                           id="{{shape.id}}"
+                                           name="{{shape.type}}"
+                                           path="{{shape.polyline}}"
+                                           paths="{{shape.polygon}}"
+                                           bounds="{{shape.rectangle}}"
+                                           center="{{shape.circle}}"
+                                           radius="{{shape.radius}}"
+                                           stroke-color="{{shape.strokeColor}}"
+                                           stroke-opacity="{{shape.strokeOpacity}}"
+                                           stroke-weight="{{shape.strokeWeight}}"
+                                           fill-color="{{shape.fillColor}}"
+                                           fill-opacity="{{shape.fillOpacity}}"
+                                           geodesic="true"
+                                           on-click="onSelectedLinea(shape.id)"
+                                           on-mouseover="onOverLinea(shape.id)"
+                                           on-mouseout="onOut(shape.id)">
+                                    </shape>
+                                </ng-map>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- /.content -->
+    
+
+</div>
+
+
+<script src="~/js/controller/mapa/mapaController.js"></script>

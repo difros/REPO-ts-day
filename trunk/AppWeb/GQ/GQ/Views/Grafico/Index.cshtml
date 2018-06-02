@@ -1,0 +1,195 @@
+﻿@{
+    ViewData["Title"] = Localizer["grafico_index_title"];
+}
+
+@if (ViewData.Keys.Contains("done"))
+{
+    <script>
+        var done = '@ViewData["done"]';
+    </script>
+}
+
+<div class="content-wrapper" style="min-height: 850px;" ng-controller="appController">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        @Html.Partial("~/Views/Shared/_PartialButtons.cshtml")
+        <h1>
+            @ViewData["Title"]
+        </h1>
+    </section>   
+    
+    <!-- BUSCAR content -->
+    <section class="content" ng-show="modo == MODO_BUSCAR">
+        <!-- BUSCAR -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel box box-primary">
+                    <div class="box-header with-border">
+                        <h4 class="box-title">
+                            <a data-toggle="collapse" aria-expanded="false" class="" ng-click="onClickShowSearch()">
+                                @Localizer["default_find_avanzado"]
+                            </a>
+                        </h4>
+                        <button class="btn btn-primary pull-right" style="margin: -7px;" ng-click="onBuscar()"> @Localizer["default_find_icon"] @Localizer["default_find"]</button>
+                    </div>
+                    <div ng-if="ShowAdvanceSearch">
+                        <form class="form-horizontal">
+                            <div class="box-body">
+                                <div class="form-group col-sm-6">
+                                    <label class="col-sm-2 control-label">@Localizer["gq_graficos_nombre"]</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" ng-model="filterObject.Nombre" class="form-control" placeholder="@Localizer["gq_graficos_nombre"]">
+                                    </div>
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label class="col-sm-2 control-label">@Localizer["gq_graficos_descripcion"]</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" ng-model="filterObject.Descripcion" class="form-control" placeholder="@Localizer["gq_graficos_descripcion"]">
+                                    </div>
+                                </div>
+                                <div class="form-group col-sm-6">
+                                    <label class="col-sm-2 control-label">@Localizer["gq_graficos_folder"]</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" ng-model="filterObject.Folder" class="form-control" placeholder="@Localizer["gq_graficos_folder"]">
+                                    </div>
+                                </div>                                
+                                <div class="form-group col-sm-6">
+                                    <label class="col-sm-2 control-label">@Localizer["gq_graficos_estado"]</label>
+                                    <div class="col-sm-10">
+                                        <select ng-model="filterObject.Estado" class="form-control">
+                                            <option value="T">@Localizer["default_estado_todos"]</option>
+                                            <option value="A">@Localizer["default_estado_activo"]</option>
+                                            <option value="D">@Localizer["default_estado_desactivo"]</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- GRILLA -->
+        <div class="row clearfix">
+            <div class="col-md-12">
+                <div class="box">
+                    <!-- /.box-header -->
+                    <div class="box-body">
+                        <table ng-table="tableBuscar" show-filter="false" class="table table-condensed table-bordered table-striped">
+                            <tr ng-repeat="row in $data">
+                                <td data-title="'@Localizer["gq_graficos_nombre"]'" sortable="'nombre'">{{row.nombre}}</td>
+                                <td data-title="'@Localizer["gq_graficos_descripcion"]'" sortable="'descripcion'">{{row.descripcion}}</td>
+                                <td data-title="'@Localizer["gq_graficos_folder"]'" sortable="'folder'">{{row.folder}}</td>                                
+                                <td data-title="'@Localizer["gq_graficos_estado"]'" sortable="'estado'">{{GetEstadoNombre(row.estado)}}</td>
+                                @Html.Partial("~/Views/Shared/_PartialTableButtons.cshtml")
+                            </tr>
+                            <tfoot ng-table-paging="tableBuscar"></tfoot>
+                        </table>
+                    </div>
+                    <!-- ./box-body -->
+                </div>
+                <!-- /.box -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+    <!-- EDITAR content -->
+    <section class="content" ng-show="modo == MODO_EDITAR || modo == MODO_AGREGAR">
+        <div class="row clearfix">
+            <div class="col-md-12">
+                <div class="box" ng-class="{'box-success':(modo == MODO_AGREGAR),'box-primary':(modo == MODO_EDITAR)}">
+                    <div class="box-header with-border">
+                        <h5 class="box-title" ng-show="modo == MODO_AGREGAR"> <i class="fa fa-plus-circle text-green"></i> @Localizer["grafico_index_create_new"]</h5>
+                        <h5 class="box-title" ng-show="modo == MODO_EDITAR"> <i class="fa fa-pencil text-blue"></i> @Localizer["grafico_index_edit"] <span class="text-blue">{{selecteditem.nombre}}</span></h5>
+                    </div>
+                    <form class="form-horizontal">
+                        <div class="box-body">
+                            <div class="form-group {{errorClass('Nombre')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_nombre"]</label>
+                                <div class="col-sm-4">
+                                    <input type="text" ng-model="selecteditem.nombre" class="form-control" placeholder="@Localizer["gq_graficos_nombre"]" ng-change="errorRemove('Nombre')">
+                                    <span ng-show="hasError('Nombre')" class="help-block">{{errorMessage('Nombre')}}</span>
+                                </div>
+                            </div>
+                            <div class="form-group {{errorClass('Descripcion')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_descripcion"]</label>
+                                <div class="col-sm-4">
+                                    <textarea type="text" ng-model="selecteditem.descripcion" class="form-control" placeholder="@Localizer["gq_graficos_descripcion"]" ng-change="errorRemove('Descripcion')"></textarea>
+                                    <span ng-show="hasError('Descripcion')" class="help-block">{{errorMessage('Descripcion')}}</span>
+                                </div>
+                            </div>
+
+                            <div class="form-group {{errorClass('Folder')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_folder"]</label>
+                                <div class="col-sm-4">
+                                    <textarea type="text" ng-model="selecteditem.folder" class="form-control" placeholder="@Localizer["gq_graficos_folder"]" ng-change="errorRemove('Folder')"></textarea>
+                                    <span ng-show="hasError('Folder')" class="help-block">{{errorMessage('Folder')}}</span>
+                                </div>
+                            </div>                            
+                                
+                            <div class="form-group {{errorClass('Template')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_template"]</label>
+                                <div class="col-sm-9">
+                                    <div ui-ace="aceHtml" ng-model="selecteditem.template" style="height:400px;">Code Source show here</div>
+                                </div>
+                            </div>
+                            <div class="form-group {{errorClass('Scritp')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_scritp"]</label>
+                                <div class="col-sm-9">
+                                    <div ui-ace="aceJS" ng-model="selecteditem.scritp" style="height:400px;">Code Source show here</div>
+                                </div>
+                            </div>
+                            <div class="form-group {{errorClass('CodeSharp')}}">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_codeSharp"]</label>
+                                <div class="col-sm-9">
+                                    <div ui-ace="aceCS" ng-model="selecteditem.codeSharp" style="height:400px;">Code Source show here</div>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label" ng-show="modo == MODO_EDITAR">@Localizer["gq_graficos_estado"]</label>
+                                <div class="col-sm-4" ng-show="modo == MODO_EDITAR">
+                                    <select ng-model="selecteditem.estado" class="form-control">
+                                        <option value="A">@Localizer["default_estado_activo"]</option>
+                                        <option value="D">@Localizer["default_estado_desactivo"]</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                    <label class="col-sm-2 control-label">@Localizer["gq_graficos_extrasEscenario"]</label>
+                                    <div class="col-sm-4">
+                                        <input type="text" ng-model="selecteditem.extrasEscenario" class="form-control" placeholder="gq_base">
+                                    </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-sm-2 control-label">@Localizer["gq_graficos_ejecutarTest"]</label>
+                                <div class="col-sm-4">                                        
+                                    <button class="btn btn-lg btn-default" ng-click="onExecuteTest()"><span class="glyphicon glyphicon-ok-circle fa-2x"></span></button>
+                                </div>                                                                
+                            </div>    
+                            
+                            <div class="form-group" ng-if="show">
+                                <label class="col-sm-2 control-label">Gráfico</label>
+                                <div class="col-sm-9">
+                                    <ng-grafico template="template" script="script" schema="selecteditem.extrasEscenario" nodo="selecteditem.extrasNodo" item="selecteditem">
+                                    </ng-grafico>
+                                </div>                        
+                            </div>
+                           
+                            @Html.Partial("~/Views/Shared/_PartialModificadoPor.cshtml")
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
+
+
+<script src="~/js/controller/grafico/graficoController.js"></script>

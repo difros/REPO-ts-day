@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionDB": {
+    "ConnectionString": "server=localhost;User Id=memuser; pwd=memuser; database=gq_base;default command timeout=999;Connection Timeout=999;",
+    "ProviderName": "MySql.Data.MySqlClient"
+  }
+}

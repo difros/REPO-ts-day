@@ -1,0 +1,42 @@
+
+<div class="content-wrapper hold-transition lockscreen" style="min-height: 850px;padding:10px;margin-top:30px;" ng-controller="appController2">
+
+    <div class="lockscreen-wrapper">
+        <div class="lockscreen-logo">
+            <a href=""><b>Lubrisider</b> CL</a>
+            
+        </div>
+
+        <div class="lockscreen-name">@ViewData["UsuarioNombre"]</div>
+
+        <div class="lockscreen-item">
+
+            <div class="lockscreen-image">
+                <img src="~/images/LOGOTIPO.JPG" alt="User Image">
+            </div>
+         
+            <form class="lockscreen-credentials">
+                <div class="input-group">
+                    <input type="password" class="form-control" ng-model="data.usuarioClave" placeholder="password">
+                    <div class="input-group-btn">
+                        <button type="button" class="btn"><i class="fa fa-arrow-right text-muted" ng-click="onLogin()"></i></button>
+                    </div>
+                </div>
+            </form>
+          
+        </div>
+        <!-- /.lockscreen-item -->
+        <div class="help-block text-center">
+            Ingrese su password para iniciar nuevamente la sesion
+        </div>
+        <div class="text-center">
+            <a>Tambien puedes ir a la pantalla login para ingresar con otro usuario</a>
+        </div>
+      
+    </div>
+
+
+</div>
+
+<script src="~/js/controller/locksession/locksessionController.js">
+</script>

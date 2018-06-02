@@ -1,0 +1,352 @@
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\log4netConfig.xml
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.exe.config
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.deps.json
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.exe
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.pdb
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\en\GQ.resources.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\es\GQ.resources.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\libuv.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\BouncyCastle.Crypto.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentMigrator.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentMigrator.Runner.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentNHibernate.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Iesi.Collections.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\itextsharp.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\log4net.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MailKit.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Antiforgery.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Authorization.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Cors.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.JsonPatch.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Localization.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Razor.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Routing.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Session.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.StaticFiles.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.AttributedModel.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Convention.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Hosting.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Runtime.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.TypedParts.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Design.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Caching.Memory.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.CommandLineUtils.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Binder.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Json.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyModel.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Localization.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Console.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Debug.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Options.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.WebEncoders.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.IdentityModel.Logging.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.IdentityModel.Tokens.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.BrowserLink.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\dotnet-aspnet-codegenerator-design.exe
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MimeKit.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MySql.Data.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Newtonsoft.Json.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\NHibernate.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\NuGet.Frameworks.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Remotion.Linq.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.Microsoft.DependencyInjection.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.Web.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.AppContext.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Buffers.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Collections.Immutable.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.ComponentModel.Primitives.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.ComponentModel.TypeConverter.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Console.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.FileVersionInfo.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Globalization.Calendars.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IdentityModel.Tokens.Jwt.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Interactive.Async.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.Compression.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.FileSystem.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Linq.Dynamic.Core.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Net.Http.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Net.Sockets.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Numerics.Vectors.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Reflection.Metadata.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Text.Encoding.CodePages.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Text.Encodings.Web.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Threading.Thread.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.ReaderWriter.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XmlDocument.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XPath.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Ionic.Zip.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQDataService.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQService.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQDataService.pdb
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQService.pdb
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csprojResolveAssemblyReference.cache
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csproj.GQ.exe.config
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.Resources.Idioma.en.resources
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.Resources.Idioma.es.resources
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csproj.GenerateResource.Cache
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csproj.CoreCompileInputs.cache
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.AssemblyInfoInputs.cache
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.AssemblyInfo.cs
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\en\GQ.resources.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\es\GQ.resources.dll
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.exe
+E:\Diego Rossi\Proyectos\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.pdb
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\log4netConfig.xml
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.exe.config
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.deps.json
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.exe
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQ.pdb
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\en\GQ.resources.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\es\GQ.resources.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\libuv.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\BouncyCastle.Crypto.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentMigrator.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentMigrator.Runner.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\FluentNHibernate.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Iesi.Collections.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\itextsharp.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\log4net.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MailKit.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Antiforgery.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Authorization.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Cors.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Cryptography.Internal.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Html.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Extensions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Http.Features.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.HttpOverrides.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.JsonPatch.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Localization.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Core.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Cors.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Localization.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Razor.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Razor.Runtime.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Routing.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Routing.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Server.IISIntegration.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Server.Kestrel.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.Session.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.StaticFiles.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.AspNetCore.WebUtilities.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.CodeAnalysis.Workspaces.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.AttributedModel.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Convention.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Hosting.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.Runtime.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Composition.TypedParts.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.DotNet.PlatformAbstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Design.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.Relational.Design.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Caching.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Caching.Memory.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.CommandLineUtils.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Binder.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.FileExtensions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Configuration.Json.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.DependencyModel.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Composite.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileProviders.Physical.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.FileSystemGlobbing.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Localization.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Localization.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Abstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Console.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Logging.Debug.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.ObjectPool.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Options.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.PlatformAbstractions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.Primitives.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Extensions.WebEncoders.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.IdentityModel.Logging.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.IdentityModel.Tokens.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Net.Http.Headers.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.BrowserLink.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\dotnet-aspnet-codegenerator-design.exe
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Microsoft.Win32.Primitives.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MimeKit.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\MySql.Data.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Newtonsoft.Json.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\NHibernate.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\NuGet.Frameworks.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Remotion.Linq.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.Microsoft.DependencyInjection.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\StructureMap.Web.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.AppContext.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Buffers.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Collections.Immutable.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.ComponentModel.Primitives.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.ComponentModel.TypeConverter.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Console.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.DiagnosticSource.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.FileVersionInfo.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Globalization.Calendars.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IdentityModel.Tokens.Jwt.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Interactive.Async.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.Compression.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.Compression.ZipFile.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.FileSystem.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.IO.FileSystem.Primitives.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Linq.Dynamic.Core.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Net.Http.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Net.Sockets.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Numerics.Vectors.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Reflection.Metadata.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Runtime.CompilerServices.Unsafe.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Algorithms.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Encoding.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.Primitives.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Security.Cryptography.X509Certificates.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Text.Encoding.CodePages.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Text.Encodings.Web.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Threading.Tasks.Extensions.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Threading.Thread.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.ReaderWriter.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XmlDocument.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XPath.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\Ionic.Zip.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQDataService.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQService.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQDataService.pdb
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\bin\Debug\net46\GQService.pdb
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csprojResolveAssemblyReference.cache
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.exe.config
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.Resources.Idioma.en.resources
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.Resources.Idioma.es.resources
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csproj.GenerateResource.Cache
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.csproj.CoreCompileInputs.cache
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.AssemblyInfoInputs.cache
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.AssemblyInfo.cs
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\en\GQ.resources.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\es\GQ.resources.dll
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.exe
+T:\Trabajo\PROYECTOS\Proyecto BASE\web\net\src\trunk\AppWeb\GQ\GQ\obj\Debug\net46\GQ.pdb
